@@ -24,10 +24,10 @@ baseurl:
 permalink: /blog/:year/:month/:title/
 
 # Configuration for site
-title: The Code Folio
-description: A personal log of life coding.
-author: USERNAME
-email: USERNAME@example.com
+title: The D'Orso Lab
+description: Lab webpage
+author: Carlos Guzman
+email: cguzman.roma@gmail.com
 
 # Configuration for blog
 lang: ja
@@ -50,9 +50,9 @@ navbar_list:
     link: /blog/categories.html
   - name: Tags
     link: /blog/tags.html
-- name: Project
+- name: Projects
   link: /project/
-- name: About
+- name: About The Lab
   link: /about.html
 
 # Configuration for bootstrap and color theme
