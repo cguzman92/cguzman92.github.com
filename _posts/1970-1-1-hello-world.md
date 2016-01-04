@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New website is up!!
+title: New website is up!
 excerpt:
 category: [Ruby, jekyll/hyde]
 tags: [web's, js & css]
