@@ -2,7 +2,7 @@
 layout: post
 title: New website is up!
 excerpt:
-category: [Ruby, jekyll/hyde]
+category: []
 tags: [web's, js & css]
 comments: true
 ---
