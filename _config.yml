@@ -55,7 +55,7 @@ navbar_list:
 - name: About The Lab
   link: /about.html
 - name: Lab Meetings
-  link: https://calendar.google.com/calendar/render?tab=mc&pli=1#h%7Cmonth
+  link: https://www.google.com/calendar/embed?src=Y2d1em1hbi5yb21hQGdtYWlsLmNvbQ
 
 # Configuration for bootstrap and color theme
 # `bootstrap`:
